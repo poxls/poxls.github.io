@@ -230,13 +230,13 @@
 	}
 
 	.reg {
-		width: 100%;
+		width: 90%;
 		display: flex;
 		flex-wrap: wrap;
 	}
 
 	.search {
-		margin-right: 70px;
+		margin-right: 30px;
 		width: 500px;
 	}
 
@@ -337,7 +337,7 @@
 	}
 
 	.login {
-		margin-right: 50px
+		margin-right: 50px;
 	}
 
 	.courses h1 {
@@ -365,6 +365,10 @@
 	.search {
 		width: 100%;
 		margin-left: 50px;
+	}
+
+	.login {
+		margin-right: 0;
 	}
 
 	.search form {
