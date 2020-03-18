@@ -1,0 +1,454 @@
+@media all and (max-width: 1024px) {
+
+	.links {
+		width: 40%;
+	}
+
+	.links a:hover {
+		color: rgba(255, 255, 255, 0.7);
+	}
+
+	.welc {
+		height: 50vh;
+	}
+
+	.welcbtn1:hover {
+		background: #fac564;
+	}
+
+	.welcbtn1 h1:hover {
+		color: #000;
+	}
+
+	.welcbtn2:hover {
+		background: none;
+		border: 1px solid #fff;
+	}
+
+	.welcbtn2 h1:hover {
+		color: #fff;
+	}
+
+	.welcpizza {
+		height: 60%;
+		background-size: 400px 400px;
+	}
+
+	.phone, .address, .time {
+		width: 33%;
+	}
+
+	.phone i {
+		margin-left: 10px;
+	}
+
+	.meals p {
+		margin-top: 0;
+	}
+
+	.p1txt p {
+		font-size: 12px;
+		margin-top: 20px;
+	}
+
+	.p1 {
+		background-position: -20px;
+	}
+
+	.p2 {
+		background-position: -40px;
+	}
+
+	.p3 {
+		background-position: -100px;
+	}
+
+	.p4 {
+		background-position: -30px;
+	}
+
+	.p5 {
+		background-position: -30px;
+	}
+
+	.p6 {
+		background-position: -100px;
+	}
+
+	.p1btn:hover {
+		border: 1px solid #fff;
+		background: none;
+	}
+
+}
+
+@media all and (max-width: 768px) {
+
+	.header {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.links {
+		display: none;
+	}
+
+	.logo {
+		margin-left: 50px;
+		width: 30%;
+	}
+
+	.mobile {
+		width: 20%;
+		display: block;
+		color: rgba(255, 255, 255, 0.8);
+		font-size: 16px;
+		letter-spacing: .2em;
+	}
+
+	.mobile i {
+		margin-right: 5px;
+	}
+
+	.welc {
+		height: 70vh;
+	}
+
+	.welctxt h1, .welctxt h2 {
+		font-size: 30px;
+	}
+
+	.welctxt p {
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 1.5;
+	}
+
+	.welcbtn h1 {
+		font-size: 13px;
+	}
+
+	.welcpizza {
+		height: 50%;
+		background-size: 320px 320px;
+	}
+
+	.cont {
+		height: 200px;
+	}
+
+	.contweb {
+		width: 75%;
+	}
+
+	.conticon {
+		width: 25%;
+	}
+
+	.time h1 {
+		margin-top: -10px;
+	}
+
+	.address h1 {
+		margin-top: -20px;
+	}
+
+	.inf {
+		height: 600px;
+	}
+
+	.serv1 p, .serv2 p,.serv3 p {
+		width: 70%;
+	}
+
+	.meals {
+		height: 1700px;
+	}
+
+	.meals>h1 {
+		margin-top: -900px;
+	}
+
+	.pizza1, .pizza2, .pizza3, .pizza4, .pizza5, .pizza6 {
+		width: 100%;
+		height: 220px;
+		margin-top: 20px;
+	}
+
+	.p2 {
+		background-position: -19px;
+	}
+
+	.p3 {
+		background-position: -19px;
+	}
+
+	.p4 {
+		background-position: 0;
+	}
+
+	.p5 {
+		background-position: 0;
+	}
+
+	.p6 {
+		background-position: 0;
+	}
+
+	.footer {
+		height: 150px;
+	}
+
+}
+
+@media all and (max-width: 414px) {
+
+	.logo {
+		margin-left: 0;
+		background-size: 100px auto;
+		margin-top: 15px;
+	}
+
+	.welc {
+		height: 800px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.welctxt {
+		width: 100%;
+		height: 300px;
+		display: flex;
+		align-items: center;
+	}
+
+	.welctxt>h2 {
+		font-size: 30px;
+	}
+
+	.welctxt>p {
+		text-align: center;
+	}
+
+	.welcpizza {
+		display: flex;
+		justify-content: center;
+		width: 100%;
+		height: 50%;
+		margin-left: 50px;
+		background-size: 320px 320px;
+	}
+
+	.cont {
+		margin-left: 0;
+		height: 300px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.cont i {
+		margin-left: 0;
+	}
+
+	.contweb {
+		width: 100%;
+		height: 200px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.conticon {
+		width: 100%;
+	}
+
+	.phone, .address, .time {
+		width: 100%;
+		height: auto;
+	}
+
+	.addresstxt {
+		margin-top: 10px;
+		margin-left: 5px;
+	}
+
+	.timetxt {
+		margin-top: 10px;
+	}
+
+	.phone i, .address i, .time i {
+		margin-left: 15px;
+	}
+
+	.conticon {
+		display: flex;
+		flex-wrap: wrap;
+		height: 100px;
+	}
+
+	.conticon i {
+		font-size: 22px;
+		margin-left: 20px;
+	}
+
+	.inf {
+		display: flex;
+		flex-wrap: wrap;
+		height: 900px;
+	}
+
+	.infimg {
+		width: 100%;
+		height: 400px;
+		background-position: -100px;
+	}
+
+	.inftxt {
+		width: 100%;
+		height: 500px;
+	}
+
+	.inftxt h1, .inftxt p {
+		width: 90%;
+	}
+
+	.service {
+		height: 1200px;
+	}
+
+	.service p {
+		width: 90%;
+	}
+
+	.servtip {
+		display: flex;
+		flex-wrap: wrap;
+		margin-top: -100px;
+	}
+
+	.serv1, .serv2, .serv3 {
+		width: 100%;
+	}
+
+	.serv1 p, .serv2 p,.serv3 p {
+		width: 95%;
+	}
+
+	.serv2, .serv3 {
+		margin-top: 50px;
+	}
+
+	.meals p {
+		width: 95%;
+		margin-top: 20px;
+	}
+
+	.pizza1, .pizza2, .pizza3, .pizza4, .pizza5, .pizza6 {
+		height: 220px;
+	}
+
+	.p1 {
+		background-position: -10px;
+	}
+
+	.p3 {
+		background-position: -65px;
+	}
+
+	.p6 {
+		background-position: -60px;
+	}
+
+	.p1txt p {
+		margin-left: 30px;
+	}
+
+	.footer p {
+		width: 70%;
+		text-align: center;
+	}
+
+}
+
+@media all and (max-width: 375px) {
+
+	.mobile {
+		width: 30%;
+	}
+
+	.welctxt>h1 {
+		margin-top: 60px;
+	}
+
+	.welcpizza {
+		background-size: 300px 300px;
+		margin-left: 13px;
+		margin-top: 50px;
+	}
+
+	.p1txt h1 {
+		margin-left: -20px;
+	}
+
+	.p1txt p {
+		width: 70%;
+		margin-left: 0;
+	}
+
+	.p1price p {
+		font-size: 15px;
+		margin-left: 20px;
+	}
+
+	.inftxt h1 {
+		font-size: 25px;
+	}
+
+	.inftxt p {
+		font-size: 13px;
+	}
+
+	.meals {
+		height: 2200px;
+	}
+
+	.meals>h1 {
+		margin-top: -1300px;
+	}
+
+	.pizza1, .pizza2, .pizza3, .pizza4, .pizza5, .pizza6 {
+		height: 250px;
+	}
+
+	.p1 {
+		background-position: -40px;
+	}
+
+	.p2 {
+		background-position: -50px;
+	}
+
+	.p3 {
+		background-position: -100px;
+	}
+
+	.p4 {
+		background-position: -30px;
+	}
+
+	.p5 {
+		background-position: -20px;
+	}
+
+	.p6 {
+		background-position: -120px;
+	}
+
+	.p1price p {
+		margin-right: 60px;
+	}
+
+	.p1btn {
+		margin-left: -50px;
+	}
+
+}
