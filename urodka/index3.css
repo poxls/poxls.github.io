@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+.menu{
+    height: 100px;
+    background:#3c355f ;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 7vh;
+  width: 100%;
+}
+.menu a{
+    font-weight: bold;
+    color: white;
+    font-family: roboto,sans-serif;
+font-size: 10px;
+padding-right: 50px;
+padding-left: 5px;
+margin-right: 5px;
+margin-left: 5px;
+}
+.menu IMG {
+    margin-left: 120px;
+}
+.news{
+    background-image:url(%D1%84%D0%BE%D0%BD.jpg);
+    background-size: cover;
+     width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+  }
+.news1{
+    background: #fff;
+     width: 100%;
+    height: 60vh;
+    margin-top: 20px;
+}
+p{font-size: 18px;
+font-weight: 300;
+text-transform: uppercase;
+color:#fff;
+font-family: roboto,sans-serif;
+}
+h1
+{color:#fff;
+font-size: 100px;
+line-height: 100px;
+text-transform: uppercase;
+}
+.block {
+    margin-right: 380px;
+    margin-top: 100px;
+}
+
+p1{
+font-size: 15px;
+font-weight: 300;
+color: gray;
+font-family: roboto,sans-serif;
+}
+h4{
+    font-weight:900;
+    margin-top: 15px;
+color:#3c355f ;
+    margin-bottom: 15px;
+}
+
+.news12 {
+    text-align: center;
+    margin-right: 350px;
+   margin-left: 160px;
+    margin-top: -235px;
+   
+}
+.news13 {
+    text-align: center;
+    margin-right: 350px;
+   margin-left: 660px;
+    margin-top: -235px;
+   
+}
+.news14 {
+    text-align: center;
+    margin-right: 250px;
+   margin-left: 1060px;
+    margin-top: -235px;
+   
+}
+h6{
+    color:#FF6347 ;
+ 
+    font-family: roboto condensed,sans-serif;
+    font-size: 15px;
+}
+p2{
+color: #3c355f;
+    font-size: 25px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+    margin-left: 595px;
+}
+p21{ 
+    margin-left: 50px;
+    color: white;
+    font-size: 35px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+}
+p20{
+    text-align: center;
+margin-left: 50px;
+    color: white;
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 2;
+}
+
+p7{
+   color:#FF6347 ;
+    font-size: 20px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 100; 
+}
+.text1{
+    background-image: url(%D1%84%D0%BE%D0%BD12.jpg);
+      background-size: cover;
+    text-align: center;
+    width: 100%;
+    height: 60vh;
+}
+
+
+p3{
+ color: #3c355f;
+font-family: roboto,sans-serif;
+font-size: 17px;
+}
+.text2{
+    text-align: center;
+    padding-top:130px;
+    }
+p9{
+    color:#fff ;
+    font-size: 25px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 500;
+    text-align: center;
+    padding-top: 130px;
+    margin-left: 920px;
+}
+
+.text355{
+    color:#fff ;
+    font-size: 45px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+    text-align: center;
+    padding-top: 100px;
+    }
+
+
+p87{
+    font-size: 20px;
+     text-align: center;
+     color: #3c355f;
+    margin-top: -100px;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 700;
+}
+
+.konets{
+padding-right: 15px;
+    padding-left: -10px; 
+      background:#000025;
+     width: 100%;
+    height: 50vh;
+}
+.l1{
+    font-size: 15px;
+     color: gray;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 200;
+}
+.l2{
+    font-size: 15px;
+     color: gray;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 200;
+}.l3{
+    
+    font-size: 15px;
+     color: gray;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 200;
+}.l4{
+    
+    font-size: 15px;
+    color: gray;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 200;
+}
+p0{
+    color: aliceblue;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+.text3555{
+   color:#fff ;
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left: 50px;
+    padding-top: 100px;
+}
+.text35555{
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left: 250px;
+    padding-top: 40px;
+}
+.text35552{
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left: 1100px;
+    margin-top: -130px;
+}
+.text35556{
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left:1250px;
+     margin-top: -50px;
+}
+.text35553{
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left: 550px;
+     margin-top: -130px;
+}
+.text35554{
+    font-size: 15px;
+    font-family: roboto condensed,sans-serif;
+        font-weight: 700;
+   margin-left: 825px;
+    margin-top: -130px;
+}
+.neww{
+     padding-top: 55px;
+    background: #fff;
+    width: 100%;
+  height: 50vh;
+}
+.neww11{
+   
+    background-size: cover;
+    background-image: url(%D0%B4%D0%BE%D0%BC%D0%B8%D0%BA.png);
+    width: 35%;
+  height: 80vh;
+}
+.text435{
+    font-size: 15px;
+    margin-left: 600px;
+     color: #FF6347;
+    margin-top: -570px;
+    font-family: roboto condensed,sans-serif;
+      font-weight: 100;
+}
+.img { 
+margin-left: 250px;}
+.tex{
+    margin-left:350px;
+    margin-top: -215px;
+}
+p09{
+    font-weight: 600;
+    font-family: "Roboto Condensed", sans-serif;
+   color: #3c355f;
+         font-size: 15px;
+}
+.img a{
+    font-weight: 600;
+    font-family: "Roboto Condensed", sans-serif;
+    color: #3c355f;
+      font-size: 15px;
+}
+.anketa{
+    margin-left: 700px;
+    margin-top: -205px;
+    font-weight: 300;
+}
+.anketa1{
+     margin-left: 1100px;
+    margin-top: -105px;
+    font-weight: 300;
+}
+.knopka {
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.button1{
+    color: #3c355f; 
+    font-weight: 600;
+  border-radius: 10px;
+	padding: 15px; 
+	border: 2px solid grey;
+    transition: 1s all;
+  	} 
+	.button1:hover { 
+	background: #FF6347; 
+        transition: Is all;
+	}
+.kkk{
+     margin-left: 1300px;
+    margin-top: -50px;
+}
